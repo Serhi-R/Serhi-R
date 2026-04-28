@@ -2,11 +2,8 @@
 <h3 align="center">Cybersecurity Student | SOC & Penetration Testing | Sofia, Bulgaria</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/serhii-rashkov-2b034b3b1">
+  <a href="https://www.linkedin.com/in/serhii-rashkov">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
