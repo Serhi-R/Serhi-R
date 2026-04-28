@@ -14,7 +14,6 @@
 - 🎓 3rd year student at **UNIBIT** (Information Technologies in Institutional and Corporate Environments)
 - 🐧 Daily Linux user — **EndeavourOS** with KDE Plasma
 - 🔍 Passionate about **SOC analysis**, **penetration testing**, and **vulnerability research**
-- 🌱 Currently learning: **Google Cybersecurity Certificate** | **TryHackMe SOC Level 1**
 - 📍 Based in **Sofia, Bulgaria** — open to remote opportunities across Europe
 
 ---
