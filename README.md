@@ -44,8 +44,6 @@
 | Certificate | Issuer | Date |
 |-------------|--------|------|
 | Introduction to Cybersecurity | Cisco Networking Academy | Apr 2026 |
-| Foundations of Cybersecurity | Google (Coursera) | Apr 2026 |
-
 ---
 
 ## 🎯 Currently Working On
