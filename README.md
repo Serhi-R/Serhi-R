@@ -29,6 +29,12 @@
   <img src="https://img.shields.io/badge/SIEM-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -39,6 +45,13 @@
 |-------------|--------|------|
 | Introduction to Cybersecurity | Cisco Networking Academy | Apr 2026 |
 | Foundations of Cybersecurity | Google (Coursera) | Apr 2026 |
+
+---
+
+## 🎯 Currently Working On
+
+- 🌐 OverTheWire — Bandit wargame
+- 📚 Google Cybersecurity Certificate (Coursera)
 
 ---
 
