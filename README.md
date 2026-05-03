@@ -57,14 +57,6 @@
 
 - 🔗 [CTF Write-ups](https://github.com/Serhi-R/ctf-writeups) — Solutions and notes from TryHackMe, OverTheWire, PicoCTF
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serhi-R&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serhi-R&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
